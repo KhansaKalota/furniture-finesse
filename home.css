@@ -1,0 +1,516 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.top-bar {
+  background-color: #272343;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 20px;
+  font-size: 11px;
+}
+
+.navbarrr {
+  background-color: #F0F2F3;
+  padding: 1%;
+}
+
+.style {
+  background-color: #007580;
+  color: white;
+  width: 17px;
+  height: 17px;
+  padding: 0.01%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 1430px;
+  position: absolute;
+  top: 60px;
+  border-radius: 50%;
+}
+
+.contactt {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 83%;
+  position: absolute;
+  top: 13%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #fff;
+  color: #272343;
+}
+
+.hero-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 60px auto;
+  padding: 20px;
+  gap: 30px;
+  background: #F0F2F3;
+
+}
+
+.hero-content {
+  flex: 1;
+}
+
+.welcome-text {
+  text-transform: uppercase;
+  color: #272343;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.main-heading {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+
+.highlight {
+  color: #009DFF;
+}
+
+.shop-btn {
+  padding: 12px 25px;
+  background-color: #009DFF;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.image {
+  flex: 1;
+  text-align: right;
+  width: 100;
+  height: auto;
+}
+
+.images {
+  display: flex;
+  gap: 2%;
+  width: auto;
+  height: auto;
+  top: 1100px;
+  left: 100px;
+  justify-content: space-between;
+  opacity: 1;
+}
+
+.main {
+  margin: 20px auto;
+  font-family: sans-serif;
+}
+
+.product-card {
+  padding: 10px;
+}
+
+.image-container {
+  position: relative;
+  text-align: left;
+}
+
+.image-container img {
+  width: 50px;
+  height: 25px;
+  display: block;
+  margin: 0;
+  border: none;
+}
+
+.new-btn {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background-color: #007580;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  font-size: 12px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.product-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-name {
+  color: #007580;
+  margin: 0;
+  font-weight: bold;
+}
+
+.price {
+  color: black;
+  margin-top: 5px;
+}
+
+.cart-icon {
+  width: 25px;
+  height: 25px;
+}
+
+.image-container img {
+  width: 45px;
+  height: 45px;
+}
+
+.new-btn {
+  width: 49;
+  height: 26;
+  top: 1095px;
+  background: #01AD5A;
+  padding: 0.5%;
+}
+
+.new-sale {
+  width: 40px;
+  color: white;
+  height: 20;
+  position: absolute;
+  top: 20px;
+  margin-left: 10px;
+  background: #F5813F;
+  padding: 0.5%;
+}
+
+.productss {
+  margin-left: 25%;
+  position: absolute;
+  top: 1060px;
+}
+
+.stool-chairs {
+  margin-left: 385px;
+  position: absolute;
+  top: 1400px;
+}
+
+.delete {
+  margin-left: 385px;
+  position: absolute;
+  top: 1420px;
+}
+
+.comfy {
+  margin-left: 50%;
+  position: absolute;
+  top: 1060px;
+}
+
+.comfort {
+  margin-left: 750px;
+  position: absolute;
+  top: 1400px;
+}
+
+.amount {
+  margin-left: 750px;
+  position: absolute;
+  top: 1420px;
+}
+
+.couch {
+  margin-left: 75%;
+  position: absolute;
+  top: 1060px;
+}
+
+.featured-couch {
+  margin-left: 1130px;
+  position: absolute;
+  top: 1400px;
+}
+
+.quantity {
+  margin-left: 1130px;
+  position: absolute;
+  top: 1420px;
+}
+
+.wood {
+  width: 350px;
+  height: 350px;
+  margin-left: 90px;
+}
+
+#com {
+  background: #000000B2;
+  color: white;
+  margin-left: 90px;
+  width: 335px;
+  position: absolute;
+  top: 1810px;
+  padding: 0.5%;
+}
+
+.value {
+  width: 350px;
+  height: 350px;
+  margin-left: 460px;
+  position: absolute;
+  top: 1510px;
+}
+
+#sum {
+  background: #000000B2;
+  color: white;
+  width: 335px;
+  position: absolute;
+  top: 1810px;
+  margin-left: 460px;
+  padding: 0.5%;
+}
+
+.short {
+  width: 350px;
+  height: 350px;
+  margin-left: 830px;
+  position: absolute;
+  top: 1510px;
+}
+
+#young {
+  background: #000000B2;
+  color: white;
+  width: 335px;
+  position: absolute;
+  top: 1810px;
+  padding: 0.5%;
+  margin-left: 830px;
+}
+
+#transform {
+  width: 648.0000000000006;
+  height: 52.00000000000004;
+  top: -0px;
+  left: -52px;
+  opacity: 1;
+}
+
+#transform {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  transition: transform 0.5s ease;
+  margin-left: 8%;
+  font-size: 30px;
+}
+
+#transform a:hover {
+  transform: rotate(0deg);
+}
+
+#box {
+  width: 520px;
+  height: 520px;
+  margin-left: 180px;
+  position: absolute;
+  top: 1950px;
+}
+
+#pic {
+  width: 250px;
+  height: 250px;
+  margin-left: 720px;
+  position: absolute;
+  top: 1960px;
+}
+
+#picture {
+  width: 250px;
+  height: 250px;
+  margin-left: 990px;
+  position: absolute;
+  top: 1960px;
+}
+
+#phase {
+  width: 250px;
+  height: 250px;
+  margin-left: 720px;
+  position: absolute;
+  top: 2220px;
+}
+
+#live {
+  width: 250px;
+  height: 250px;
+  margin-left: 990px;
+  position: absolute;
+  top: 2220px;
+}
+
+#showcase {
+  height: 200px;
+  height: 200px;
+  margin-left: 200px;
+}
+
+#botton {
+  background: #01AD5A;
+color: white;
+width: 40px;
+margin-left: 210px;
+position: absolute;
+top: 2630px;
+}
+.costtt{
+  color: #007580;
+margin-left: 210px;
+}
+
+#case{
+   width: 200px;
+  height: 200px;
+  margin-left: 200px;
+}
+
+#instantt{
+ background: #01AD5A;
+color: white;
+width: 40px;
+margin-left: 210px;
+position: absolute;
+top: 2870px;
+}
+.costtt{
+  color: black;
+}
+
+#world{
+width: 200px;
+height: 200px;
+margin-left: 430px;
+position: absolute;
+top:2610px ;
+}
+
+#fake{
+  background: #F5813F;
+color: white;
+width: 40px;
+margin-left: 440px;
+position: absolute;
+top: 2630px;
+}
+
+.rupees{
+  color: black;
+  margin-left: 450px;
+  position: absolute;
+  top: 2820px;
+}
+
+#earth{
+  width: 200px;
+height: 200px;
+margin-left: 430px;
+position: absolute;
+top: 2860px;
+}
+
+#bottom{
+   background: #F5813F;
+color: white;
+width: 40px;
+margin-left: 440px;
+position: absolute;
+top: 2870px;
+}
+
+.board{
+  margin-left: 440px;
+  position: absolute;
+  top: 3060px;
+}
+#wrap{
+  width: 200px;
+height: 200px;
+margin-left: 650px;
+position: absolute;
+top:2610px ;
+}
+.stool{
+  margin-left: 660px;
+  position: absolute;
+  top: 2820px;
+}
+#pin{
+   width: 200px;
+height: 200px;
+margin-left:650px;
+position: absolute;
+top: 2860px;
+}
+.pins{
+  margin-left: 650px;
+  position: absolute;
+  top: 3060px;
+}
+#keys{
+  width: 200px;
+height: 200px;
+margin-left: 870px;
+position: absolute;
+top:2610px
+}
+.keyss{
+  margin-left: 870px;
+  position: absolute;
+  top: 2820px;
+}
+#save{
+   width: 200px;
+height: 200px;
+margin-left: 870px;
+position: absolute;
+top:2860px;
+}
+
+.saves{
+   position: absolute;
+  top: 3060px;
+  margin-left: 870px;
+}
+.subs{
+  background: #029FAE;
+color: white;
+padding: 0.5%;
+width: 180px;
+margin-left:1300px;
+position: absolute;
+top:3225px;
+}
+
+.ending{
+  position: absolute;
+  top: 3500px;
+  margin-left: 200px;
+}
